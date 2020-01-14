@@ -1,5 +1,4 @@
 import pyperclip, re, os, shutil, sys
-# from tkinter import *
 
 # USE THE FOLLOWING TO DETECT OS AND ADJUST SCRIPT ACCORDINGLY:
 # import platform
