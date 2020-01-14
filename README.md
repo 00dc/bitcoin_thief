@@ -1,5 +1,9 @@
 # bitcoin_thief
 
+Firstly, thanks John G.Fisher, I saw your video and I liked the idea of your malware. I could not have written this without your video. 
+
+To those interested his video is here: https://www.youtube.com/watch?v=ljXhijQU9Rk
+
 This in no means is meant to be a functional virus. It is merely a POC. 
 
 At the moment, code consumes as high as 30% CPU resources on my Intel i7 8565U CPU. Maybe you can try and optimize this? 
