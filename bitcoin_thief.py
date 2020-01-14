@@ -38,9 +38,10 @@ def address_swap():
     except:
         data = None
 
+def loop_through():
+    while True:
+        address_swap()
 
-persistence()
 
-while True:
-    address_swap()
-
+auto_run()
+loop_through()
