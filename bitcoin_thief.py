@@ -38,6 +38,7 @@ def address_swap():
         data = None
 
 def loop_through():
+    
     while True:
         address_swap()
 
