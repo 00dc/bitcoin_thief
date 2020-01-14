@@ -4,6 +4,8 @@ Firstly, thanks John G.Fisher, I saw your video and I liked the idea of your mal
 
 To those interested his video is here: https://www.youtube.com/watch?v=ljXhijQU9Rk
 
+Another important note, please do not actually spread this to users, it is merely for educational purposes. I am not responsible for your actions. 
+
 This in no means is meant to be a functional virus. It is merely a POC. 
 
 At the moment, code consumes as high as 30% CPU resources on my Intel i7 8565U CPU. Maybe you can try and optimize this? 
@@ -16,7 +18,7 @@ I believe currently it should still be able to autorun even if not executed init
 
 There is some tips for other platforms but the current implementation is mainly targeted at Windows. 
 
-Again, this is merely a POC. Another important note, please do not actually spread this to users, it is merely for educational purposes. 
+Again, this is merely a POC. 
 
 Virus writing for me is something creative and exciting but it is not something I condone using on systems you are not authroised to use. 
 
